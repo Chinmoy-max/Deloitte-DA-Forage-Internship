@@ -45,3 +45,4 @@ Successfully completed the Deloitte Australia Data Analytics Job Simulation on F
 ## Acknowledgement
 Thanks to Deloitte and Forage for providing this opportunity to gain practical exposure to real-world data analytics projects.
 
+<img width="824" height="585" alt="Screenshot 2026-11-05 at 2 57 33 PM" src="https://github.com/user-attachments/assets/234eb051-2ba1-4200-9e3b-d5a4848cbf69" />
